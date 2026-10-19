@@ -7,6 +7,236 @@
 
 ---
 
+## [2026-10-19 04:01:43] — Literature Check Run
+
+**Search Queries:**
+- `"mouse dynamics" "authentication"`
+- `"curvature" "mouse trajectory"`
+
+**Run Statistics:**
+- Total Raw Results Fetched: `28`
+- Unique Candidates Across Sources: `27`
+- Genuinely New (Unlogged) Candidates: `27`
+- Already in Annotated Bibliography (Filtered): `0`
+
+### New Candidate Papers for Review
+
+#### 1. BEACON: A Multimodal Dataset for Learning Behavioral Fingerprints from Gameplay Data
+- **Source(s)**: arXiv
+- **Publication Date / Year**: 2026-05-11
+- **Venue**: *arXiv Preprint*
+- **Authors**: Ishpuneet Singh, Gursmeep Kaur, Uday Pratap Singh Atwal, Guramrit Singh et al.
+- **Link**: [http://arxiv.org/abs/2605.10867v2](http://arxiv.org/abs/2605.10867v2)
+- **Abstract / Summary**: Continuous authentication in high-stakes digital environments requires datasets with fine-grained behavioral signals under realistic cognitive and motor demands. But current benchmarks are often limited by small scale, unimodal sensing or lack of synchronised environmental context. To address this gap, this paper introduces BEACON (Behavioral Engine for A...
+
+#### 2. Optimizing Mouse Dynamics for User Authentication by Machine Learning: Addressing Data Sufficiency, Accuracy-Practicality Trade-off, and Model Performance Challenges
+- **Source(s)**: arXiv
+- **Publication Date / Year**: 2025-04-30
+- **Venue**: *arXiv Preprint*
+- **Authors**: Yi Wang, Chengyv Wu, Yang Liao, Maowei You
+- **Link**: [http://arxiv.org/abs/2504.21415v2](http://arxiv.org/abs/2504.21415v2)
+- **Abstract / Summary**: User authentication is essential to ensure secure access to computer systems, yet traditional methods face limitations in usability, cost, and security. Mouse dynamics authentication, based on the analysis of users' natural interaction behaviors with mouse devices, offers a cost-effective, non-intrusive, and adaptable solution. However, challenges remain ...
+
+#### 3. From Clicks to Security: Investigating Continuous Authentication via Mouse Dynamics
+- **Source(s)**: arXiv
+- **Publication Date / Year**: 2024-03-06
+- **Venue**: *arXiv Preprint*
+- **Authors**: Rushit Dave, Marcho Handoko, Ali Rashid, Cole Schoenbauer
+- **Link**: [http://arxiv.org/abs/2403.03828v1](http://arxiv.org/abs/2403.03828v1)
+- **Abstract / Summary**: In the realm of computer security, the importance of efficient and reliable user authentication methods has become increasingly critical. This paper examines the potential of mouse movement dynamics as a consistent metric for continuous authentication. By analyzing user mouse movement patterns in two contrasting gaming scenarios, "Team Fortress" and Poly ...
+
+#### 4. Continuous Authentication Using Mouse Clickstream Data Analysis
+- **Source(s)**: arXiv
+- **Publication Date / Year**: 2023-11-23
+- **Venue**: *arXiv Preprint*
+- **Authors**: Sultan Almalki, Prosenjit Chatterjee, Kaushik Roy
+- **Link**: [http://arxiv.org/abs/2312.00802v1](http://arxiv.org/abs/2312.00802v1)
+- **Abstract / Summary**: Biometrics is used to authenticate an individual based on physiological or behavioral traits. Mouse dynamics is an example of a behavioral biometric that can be used to perform continuous authentication as protection against security breaches. Recent research on mouse dynamics has shown promising results in identifying users; however, it has not yet reach...
+
+#### 5. Mouse Dynamics Behavioral Biometrics: A Survey
+- **Source(s)**: arXiv
+- **Publication Date / Year**: 2022-08-18
+- **Venue**: *arXiv Preprint*
+- **Authors**: Simon Khan, Charles Devlen, Michael Manno, Daqing Hou
+- **DOI / Link**: [https://doi.org/10.1145/3640311](https://doi.org/10.1145/3640311)
+- **Abstract / Summary**: Utilization of the Internet in our everyday lives has made us vulnerable in terms of privacy and security of our data and systems. Therefore, there is a pressing need to protect our data and systems by improving authentication mechanisms, which are expected to be low cost, unobtrusive, and ideally ubiquitous in nature. Behavioral biometric modalities such...
+
+#### 6. Machine and Deep Learning Applications to Mouse Dynamics for Continuous User Authentication
+- **Source(s)**: arXiv
+- **Publication Date / Year**: 2022-05-26
+- **Venue**: *arXiv Preprint*
+- **Authors**: Nyle Siddiqui, Rushit Dave, Naeem Seliya, Mounika Vanamala
+- **DOI / Link**: [https://doi.org/10.3390/make4020023](https://doi.org/10.3390/make4020023)
+- **Abstract / Summary**: Static authentication methods, like passwords, grow increasingly weak with advancements in technology and attack strategies. Continuous authentication has been proposed as a solution, in which users who have gained access to an account are still monitored in order to continuously verify that the user is not an imposter who had access to the user credentia...
+
+#### 7. Continuous Authentication Using Mouse Movements, Machine Learning, and Minecraft
+- **Source(s)**: arXiv
+- **Publication Date / Year**: 2021-10-15
+- **Venue**: *arXiv Preprint*
+- **Authors**: Nyle Siddiqui, Rushit Dave, Naeem Seliya
+- **Link**: [http://arxiv.org/abs/2110.11080v1](http://arxiv.org/abs/2110.11080v1)
+- **Abstract / Summary**: Mouse dynamics has grown in popularity as a novel irreproducible behavioral biometric. Datasets which contain general unrestricted mouse movements from users are sparse in the current literature. The Balabit mouse dynamics dataset produced in 2016 was made for a data science competition and despite some of its shortcomings, is considered to be the first p...
+
+#### 8. Adversarial Attacks on Remote User Authentication Using Behavioural Mouse Dynamics
+- **Source(s)**: arXiv
+- **Publication Date / Year**: 2019-05-28
+- **Venue**: *arXiv Preprint*
+- **Authors**: Yi Xiang Marcus Tan, Alfonso Iacovazzi, Ivan Homoliak, Yuval Elovici et al.
+- **DOI / Link**: [https://doi.org/10.1109/IJCNN.2019.8852414](https://doi.org/10.1109/IJCNN.2019.8852414)
+- **Abstract / Summary**: Mouse dynamics is a potential means of authenticating users. Typically, the authentication process is based on classical machine learning techniques, but recently, deep learning techniques have been introduced for this purpose. Although prior research has demonstrated how machine learning and deep learning algorithms can be bypassed by carefully crafted a...
+
+#### 9. Building Predictive Identity Threat Models Using Behavioral Biometrics and Zero Trust Cybersecurity Principles
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-10-12
+- **Venue**: *INTERNATIONAL JOURNAL OF COMPUTER SCIENCE AND MATHEMATICAL THEORY E-ISSN*
+- **Authors**: Tamuka Mavenge Moyo
+- **DOI / Link**: [https://doi.org/10.56201/ijcsmt.vol.11.no9.2025.pg70.92](https://doi.org/10.56201/ijcsmt.vol.11.no9.2025.pg70.92)
+- **Abstract / Summary**: This review explores the integration of behavioral biometrics and Zero Trust cybersecurity principles in building predictive identity threat models for advanced cyber defense. As traditional perimeter-based security becomes increasingly ineffective against sophisticated identity-based attacks, the fusion of behavioral biometrics—such as keystroke dynamics...
+
+#### 10. Adversarial Attacks on Artificial Intelligence Models: Defence Strategies, Datasets, Evaluation Metrics, and Future Research Directions
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-09-29
+- **Venue**: *Research Square*
+- **Authors**: Hassan Mansur Hussien, Sharifah Md Ya, Nur Izura Udzir, Mohd Izuan Hafez Ninggal et al.
+- **DOI / Link**: [https://doi.org/10.21203/rs.3.rs-10503793/v1](https://doi.org/10.21203/rs.3.rs-10503793/v1)
+
+#### 11. Behavioural biometrics-based continuous authentication using transformer networks for detecting insider-threat session hijacking
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-09-26
+- **Venue**: *Scientific Reports*
+- **Authors**: Nouf Alkhater
+- **DOI / Link**: [https://doi.org/10.1038/s41598-026-72199-2](https://doi.org/10.1038/s41598-026-72199-2)
+- **Abstract / Summary**: Abstract Insider threats, in which a legitimate user’s already-authenticated session is taken over by another enrolled individual, evade one-time login authentication because the session is trusted before the takeover occurs. Continuous authentication, which re-verifies the user throughout a session from behavioural signals, is a natural defence. We study...
+
+#### 12. Template Ageing and Longitudinal Verification in Fixed-Text Keystroke Dynamics: A Subject-Disjoint Study Across Eight Weeks
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-09-24
+- **Venue**: *arXiv (Cornell University)*
+- **Authors**: Simon Parkinson, Saad Khan, Na Liu, Qing Xu
+- **DOI / Link**: [https://doi.org/10.48550/arxiv.2609.29851](https://doi.org/10.48550/arxiv.2609.29851)
+- **Abstract / Summary**: Behavioural biometric templates are widely believed to degrade as the gap between enrolment and verification grows, but few studies measure this template ageing effect directly under controlled conditions. We collected a longitudinal dataset of 40 fixed passwords, each typed four times per weekly session over eight consecutive weeks. We compare a scaled-M...
+
+#### 13. Privacy-preserving and robust mouse dynamics authentication using hybrid transformer-CNN and federated learning
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-09-17
+- **Venue**: *Frontiers in Artificial Intelligence*
+- **Authors**: K. Sasikumar, Sivakumar Nagarajan
+- **DOI / Link**: [https://doi.org/10.3389/frai.2026.1914353](https://doi.org/10.3389/frai.2026.1914353)
+- **Abstract / Summary**: Traditional methods like passwords and PINs are increasingly vulnerable, making continuous authentication essential. Behavioral biometrics such as mouse dynamics provide a non-intrusive way to verify users through their unique interaction patterns. This study proposes a secure and privacy-preserving framework for mouse dynamics authentication using a Hybr...
+
+#### 14. Scaling Synthetic Training Data for Mouse-Dynamics Authentication
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-09-09
+- **Venue**: *Zenodo (CERN European Organization for Nuclear Research)*
+- **Authors**: Karthik Godugolla, Charles Devlen, Daqing Hou
+- **DOI / Link**: [https://doi.org/10.5281/zenodo.22679675](https://doi.org/10.5281/zenodo.22679675)
+- **Abstract / Summary**: Per-user authentication from mouse dynamics degrades when a user has contributed little enrolment data, motivating the use of generative models to synthesize additional genuine sequences. We evaluate whether TimeGAN-synthesized sequences improve a per-user BiLSTM authenticator across 14 users, using a pipeline in which the generator and the authenticator ...
+
+#### 15. Emotion classification from keystroke dynamics: a dual-input deep learning approach
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-09-09
+- **Venue**: *Scientific Reports*
+- **Authors**: Kolmogortseva Karina Kolmogortseva Karina, Myung‐Sun Kim, Myung‐Sun Kim, Soonja Yeom et al.
+- **DOI / Link**: [https://doi.org/10.1038/s41598-026-70720-1](https://doi.org/10.1038/s41598-026-70720-1)
+- **Abstract / Summary**: Accurate emotion recognition from human-computer interactions is essential for adaptive and user-centered applications. Traditional affect recognition methods often overlook individual behavioral patterns, thereby limiting their effectiveness across diverse user populations. We propose a personalized deep learning framework for emotion recognition from ke...
+
+#### 16. Efficient Detection of Anomalous User Behavior in Cloud Environments Using Simulated Mouse Dynamics and a Hybrid Ensemble Model
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-09-08
+- **Venue**: *Journal La Multiapp*
+- **Authors**: Uqba bn Nafaa Mohammed, Zeyad Farooq Lutfi, Raed Waheed Kadhim
+- **DOI / Link**: [https://doi.org/10.37899/journallamultiapp.v7i4.5930](https://doi.org/10.37899/journallamultiapp.v7i4.5930)
+- **Abstract / Summary**: This study proposes a lightweight and interpretable framework for identifying suspicious behavior within a cloud-based environment through the use of simulated mouse dynamics and a voting ensemble classifier. Contrary to existing approaches that heavily focus on the use of deep learning techniques, this study utilizes a combination of three classical mach...
+
+#### 17. TriadAuth: Continuous Authentication Through Structured GUI Sequence Modelling With Drift Adaptation and Modality‐Aware Explanations
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-09-07
+- **Venue**: *CAAI Transactions on Intelligence Technology*
+- **Authors**: Ahmed Abdullah Alzahrani
+- **DOI / Link**: [https://doi.org/10.1049/cit2.70173](https://doi.org/10.1049/cit2.70173)
+- **Abstract / Summary**: ABSTRACT Continuous authentication (CA) systems based on behavioural biometrics are increasingly deployed in zero‐trust architectures, yet their performance degrades over time due to natural behavioural drift arising from device changes, fatigue and evolving habits. This paper presents TriadAuth, a CA framework that fuses keystroke dynamics, mouse dynamic...
+
+#### 18. Derived Mouse Dynamics Dataset: A Feature-Enhanced Dataset for Behavioral Biometrics and Continuous Authentication
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-09-06
+- **Venue**: *Mendeley Data*
+- **Authors**: Rizwan ur Rahman, Sneha Shaji
+- **DOI / Link**: [https://doi.org/10.17632/9rv9s3v2br](https://doi.org/10.17632/9rv9s3v2br)
+- **Abstract / Summary**: The Derived_Mouse_Dynamics_dataset is a feature-enhanced dataset developed for research and intends to provide a richer feature representation of mouse behaviour for application in user profiling, continuous authentication, behavioural analysis, anomaly detection and machine learning approaches. The hypothesis is that individual users exhibit distinctive ...
+
+#### 19. Open Dataset of Developmental Timelines for Corresponding Milestones in Mice, Rats, and Humans
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-10-15
+- **Venue**: *bioRxiv (Cold Spring Harbor Laboratory)*
+- **Authors**: Eugenia Amici, Rafael Grimson, Pablo Moriña Vázquez
+- **DOI / Link**: [https://doi.org/10.64898/2026.10.09.757751](https://doi.org/10.64898/2026.10.09.757751)
+- **Abstract / Summary**: Translating developmental time across species is essential for the appropriate design and interpretation of preclinical neurodevelopmental research, yet no open, unified resource currently integrates high-quality developmental milestone data for mouse, rat, and human. Here we present a curated, open-access dataset of general and neurodevelopmental milesto...
+
+#### 20. Mice navigate complex landscapes by learning a sparse vocabulary of paths
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-10-11
+- **Venue**: *bioRxiv (Cold Spring Harbor Laboratory)*
+- **Authors**: Tzuhsuan Ma, Alison E. Comrie, Vojko Pjanovic, Pierre Karashchuk et al.
+- **DOI / Link**: [https://doi.org/10.64898/2026.10.10.757726](https://doi.org/10.64898/2026.10.10.757726)
+- **Abstract / Summary**: Abstract Effective navigation is critical for survival, but how animals contend with the scale, complexity, and self-similarity of natural landscapes is unknown. Here, we investigate spontaneous exploratory mouse behavior, both outdoors and in dark self-similar landscapes made from tens to hundreds of tiles of varying heights. Within 2 hours of exploratio...
+
+#### 21. MIMAS: An open-source microlens-array miniature microscope for accessible large-field cortical imaging in freely behaving mice
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-10-07
+- **Venue**: *Science Advances*
+- **Authors**: MIAN XIE, Jing Ma, Baoyi Zhang, Jian Lu et al.
+- **DOI / Link**: [https://doi.org/10.1126/sciadv.aei8743](https://doi.org/10.1126/sciadv.aei8743)
+- **Abstract / Summary**: Large-scale cortical dynamics during natural behavior are difficult to measure because head-mounted imaging systems must balance field of view, spatial resolution, weight, and optical complexity. Existing wide-field miniature microscopes often rely on compound or custom-corrected optical assemblies, which increase device complexity and limit accessibility...
+
+#### 22. Unfolding Dynamics of Distractor Suppression Through Reaching Movement Trajectories
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-09-22
+- **Venue**: *Open Scholarship Institutional Repository (Washington University in St. Louis)*
+- **Authors**: Shinhae Ahn
+- **DOI / Link**: [https://doi.org/10.7936/51ee-pm15](https://doi.org/10.7936/51ee-pm15)
+- **Abstract / Summary**: Efficient visual search requires prioritizing relevant information while suppressing salient but irrelevant distractors that compete for attention. Previous studies have shown that attentional suppression of salient distractors can be modulated by perceptual grouping (Ma & Abrams, 2023) and distractor salience (Stilwell et al., 2023; 2024). However, prior...
+
+#### 23. SPARTA-net: Multi-modal transformer framework with cognitive vulnerability indexing for real-time social engineering attack detection in healthcare IoT and neural rehabilitation systems
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-08-23
+- **Venue**: *Array*
+- **Authors**: Ahmed Abdulhakim T Bukhari
+- **DOI / Link**: [https://doi.org/10.1016/j.array.2026.101141](https://doi.org/10.1016/j.array.2026.101141)
+- **Abstract / Summary**: The proliferation of Internet of Medical Things (IoMT) devices, brain-computer interfaces (BCIs), and tele-rehabilitation platforms has introduced critical cybersecurity vulnerabilities, particularly social engineering attacks that exploit the cognitive limitations of neurologically impaired users. Existing intrusion detection and anomaly detection system...
+
+#### 24. Flexible predictive processing during face perception
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-08-04
+- **Venue**: *bioRxiv (Cold Spring Harbor Laboratory)*
+- **Authors**: Francisco Gutierrez-Blanco, Sergio Gaspar, Ana F. Palenciano, Carlos González‐García et al.
+- **DOI / Link**: [https://doi.org/10.64898/2026.07.29.741445](https://doi.org/10.64898/2026.07.29.741445)
+- **Abstract / Summary**: Abstract Perceptual expectations facilitate perception of expected information by shaping neural coding. However, how the cognitive demands of different tasks may modulate this effect remains unclear. Here, we investigated whether and how expectations derived from sex/gender stereotypes impact behavioral and neural face processing as a function of task go...
+
+#### 25. PathInteract: a video analysis suite for capturing and analyzing pathology slide reviewing interactions
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-07-28
+- **Venue**: *Scientific Reports*
+- **Authors**: Jun Jiang, Qiangqiang Gu, Xin Zhou, Ruifeng Guo et al.
+- **DOI / Link**: [https://doi.org/10.1038/s41598-026-61758-2](https://doi.org/10.1038/s41598-026-61758-2)
+- **Abstract / Summary**: Digital pathology has transformed how pathologists review and interpret tissue specimens, enabling remote access, efficient storage, and advanced visualization. Systematically analyzing pathologists’ slide reviewing interactions can uncover opportunities to design AI-assisted tools that integrate seamlessly into routine practice. We present a proof-of-con...
+
+#### 26. Design and Evaluation of an Explainable Clinical Decision Support System for Depression-Related Triage Based on Digital Phenotyping
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-07-17
+- **Venue**: *Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)*
+- **Authors**: Francisco dos Santos Andrade
+- **Link**: [https://openalex.org/W7202065309](https://openalex.org/W7202065309)
+- **Abstract / Summary**: Depression constitutes a significant public health problem and poses substantial challenges to mental health services, especially due to high demand, the episodic nature of traditional clinical assessment, and the limitations of retrospective self-reports.Digital phenotyping, combined with Machine Learning, has been proposed as a scalable way to complemen...
+
+#### 27. EDGE-BASED AI/ML FRAMEWORK FOR PREEMPTING LOW-AND-SLOW BOT ATTACKS IN CREDIT CARD ACTIVATION FLOWS
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-07-03
+- **Venue**: *International Journal of Software Engineering & Applications*
+- **Authors**: Anil Mandloi
+- **DOI / Link**: [https://doi.org/10.5121/ijsea.2026.17401](https://doi.org/10.5121/ijsea.2026.17401)
+- **Abstract / Summary**: Credit card activation and registration flows operating in non-logged-in environments represent one of the most attractive targets for sophisticated automated attacks in the financial services sector. The absence of prior authentication, combined with the high value of successfully activated accounts, makes these flows particularly susceptible to low-and-...
+
+---
 ## [2026-10-12 05:16:04] — Literature Check Run
 
 **Search Queries:**
