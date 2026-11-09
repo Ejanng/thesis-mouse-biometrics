@@ -7,6 +7,164 @@
 
 ---
 
+## [2026-11-09 05:33:34] — Literature Check Run
+
+**Search Queries:**
+- `"mouse dynamics" "authentication"`
+- `"curvature" "mouse trajectory"`
+
+**Run Statistics:**
+- Total Raw Results Fetched: `18`
+- Unique Candidates Across Sources: `18`
+- Genuinely New (Unlogged) Candidates: `18`
+- Already in Annotated Bibliography (Filtered): `0`
+
+### New Candidate Papers for Review
+
+#### 1. BEACON: A Multimodal Dataset for Learning Behavioral Fingerprints from Gameplay Data
+- **Source(s)**: arXiv
+- **Publication Date / Year**: 2026-05-11
+- **Venue**: *arXiv Preprint*
+- **Authors**: Ishpuneet Singh, Gursmeep Kaur, Uday Pratap Singh Atwal, Guramrit Singh et al.
+- **Link**: [http://arxiv.org/abs/2605.10867v2](http://arxiv.org/abs/2605.10867v2)
+- **Abstract / Summary**: Continuous authentication in high-stakes digital environments requires datasets with fine-grained behavioral signals under realistic cognitive and motor demands. But current benchmarks are often limited by small scale, unimodal sensing or lack of synchronised environmental context. To address this gap, this paper introduces BEACON (Behavioral Engine for A...
+
+#### 2. Optimizing Mouse Dynamics for User Authentication by Machine Learning: Addressing Data Sufficiency, Accuracy-Practicality Trade-off, and Model Performance Challenges
+- **Source(s)**: arXiv
+- **Publication Date / Year**: 2025-04-30
+- **Venue**: *arXiv Preprint*
+- **Authors**: Yi Wang, Chengyv Wu, Yang Liao, Maowei You
+- **Link**: [http://arxiv.org/abs/2504.21415v2](http://arxiv.org/abs/2504.21415v2)
+- **Abstract / Summary**: User authentication is essential to ensure secure access to computer systems, yet traditional methods face limitations in usability, cost, and security. Mouse dynamics authentication, based on the analysis of users' natural interaction behaviors with mouse devices, offers a cost-effective, non-intrusive, and adaptable solution. However, challenges remain ...
+
+#### 3. From Clicks to Security: Investigating Continuous Authentication via Mouse Dynamics
+- **Source(s)**: arXiv
+- **Publication Date / Year**: 2024-03-06
+- **Venue**: *arXiv Preprint*
+- **Authors**: Rushit Dave, Marcho Handoko, Ali Rashid, Cole Schoenbauer
+- **Link**: [http://arxiv.org/abs/2403.03828v1](http://arxiv.org/abs/2403.03828v1)
+- **Abstract / Summary**: In the realm of computer security, the importance of efficient and reliable user authentication methods has become increasingly critical. This paper examines the potential of mouse movement dynamics as a consistent metric for continuous authentication. By analyzing user mouse movement patterns in two contrasting gaming scenarios, "Team Fortress" and Poly ...
+
+#### 4. Continuous Authentication Using Mouse Clickstream Data Analysis
+- **Source(s)**: arXiv
+- **Publication Date / Year**: 2023-11-23
+- **Venue**: *arXiv Preprint*
+- **Authors**: Sultan Almalki, Prosenjit Chatterjee, Kaushik Roy
+- **Link**: [http://arxiv.org/abs/2312.00802v1](http://arxiv.org/abs/2312.00802v1)
+- **Abstract / Summary**: Biometrics is used to authenticate an individual based on physiological or behavioral traits. Mouse dynamics is an example of a behavioral biometric that can be used to perform continuous authentication as protection against security breaches. Recent research on mouse dynamics has shown promising results in identifying users; however, it has not yet reach...
+
+#### 5. Mouse Dynamics Behavioral Biometrics: A Survey
+- **Source(s)**: arXiv
+- **Publication Date / Year**: 2022-08-18
+- **Venue**: *arXiv Preprint*
+- **Authors**: Simon Khan, Charles Devlen, Michael Manno, Daqing Hou
+- **DOI / Link**: [https://doi.org/10.1145/3640311](https://doi.org/10.1145/3640311)
+- **Abstract / Summary**: Utilization of the Internet in our everyday lives has made us vulnerable in terms of privacy and security of our data and systems. Therefore, there is a pressing need to protect our data and systems by improving authentication mechanisms, which are expected to be low cost, unobtrusive, and ideally ubiquitous in nature. Behavioral biometric modalities such...
+
+#### 6. Machine and Deep Learning Applications to Mouse Dynamics for Continuous User Authentication
+- **Source(s)**: arXiv
+- **Publication Date / Year**: 2022-05-26
+- **Venue**: *arXiv Preprint*
+- **Authors**: Nyle Siddiqui, Rushit Dave, Naeem Seliya, Mounika Vanamala
+- **DOI / Link**: [https://doi.org/10.3390/make4020023](https://doi.org/10.3390/make4020023)
+- **Abstract / Summary**: Static authentication methods, like passwords, grow increasingly weak with advancements in technology and attack strategies. Continuous authentication has been proposed as a solution, in which users who have gained access to an account are still monitored in order to continuously verify that the user is not an imposter who had access to the user credentia...
+
+#### 7. Continuous Authentication Using Mouse Movements, Machine Learning, and Minecraft
+- **Source(s)**: arXiv
+- **Publication Date / Year**: 2021-10-15
+- **Venue**: *arXiv Preprint*
+- **Authors**: Nyle Siddiqui, Rushit Dave, Naeem Seliya
+- **Link**: [http://arxiv.org/abs/2110.11080v1](http://arxiv.org/abs/2110.11080v1)
+- **Abstract / Summary**: Mouse dynamics has grown in popularity as a novel irreproducible behavioral biometric. Datasets which contain general unrestricted mouse movements from users are sparse in the current literature. The Balabit mouse dynamics dataset produced in 2016 was made for a data science competition and despite some of its shortcomings, is considered to be the first p...
+
+#### 8. Adversarial Attacks on Remote User Authentication Using Behavioural Mouse Dynamics
+- **Source(s)**: arXiv
+- **Publication Date / Year**: 2019-05-28
+- **Venue**: *arXiv Preprint*
+- **Authors**: Yi Xiang Marcus Tan, Alfonso Iacovazzi, Ivan Homoliak, Yuval Elovici et al.
+- **DOI / Link**: [https://doi.org/10.1109/IJCNN.2019.8852414](https://doi.org/10.1109/IJCNN.2019.8852414)
+- **Abstract / Summary**: Mouse dynamics is a potential means of authenticating users. Typically, the authentication process is based on classical machine learning techniques, but recently, deep learning techniques have been introduced for this purpose. Although prior research has demonstrated how machine learning and deep learning algorithms can be bypassed by carefully crafted a...
+
+#### 9. Acute Stress Detection through Typing Behaviors, Smartphone Sensors and Machine Learning Techniques
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-11-03
+- **Venue**: *Indian Journal of Science and Technology*
+- **Authors**: Purba Banerjee, Soumen Roy, Sandip Dutta, Utpal Roy
+- **DOI / Link**: [https://doi.org/10.17485/ijst/v19i38.1223](https://doi.org/10.17485/ijst/v19i38.1223)
+- **Abstract / Summary**: Objectives: To examine whether acute stress can be recognised from smartphone typing behaviour and device motion without wearable sensors, and to identify the classifier family best suited to such data. Method: A browser-based application recorded keystroke events together with accelerometer and gyroscope readings (2 Hz) while 288 participants typed simpl...
+
+#### 10. Bridging Security and Human-Centered Design in Ethical AI-Driven Continuous Authentication
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-11-03
+- **Venue**: *Routledge eBooks*
+- **Authors**: Mehdi Mekni, Adwoa Donyina, Muhammad Aminul Islam
+- **DOI / Link**: [https://doi.org/10.1201/9781003635871-5](https://doi.org/10.1201/9781003635871-5)
+- **Abstract / Summary**: The limitations of traditional authentication methods leave devices vulnerable when users unintentionally or deliberately expose access, and existing timing-based or hardware solutions only partially mitigate this risk. This paper introduces Gargoyle Guard, an intelligent continuous authentication system that leverages real-time user activity fingerprinti...
+
+#### 11. Protection Against Analysis of Information Handwriting by the Introduction of Noise and Cursor Trajectories Filtering
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-11-03
+- **Venue**: *Proceedings of Telecommunication Universities*
+- **Authors**: D. M. Silin, Mikhail Buinevich
+- **DOI / Link**: [https://doi.org/10.31854/1813-324x-2026-12-5-132-142](https://doi.org/10.31854/1813-324x-2026-12-5-132-142)
+- **Abstract / Summary**: The relevance is due to the growing volume of information collected by websites about their users every year, on the one hand, and the inefficiency of existing methods for protecting against information collection, on the other. The contradiction in the subject area lies in the imbalance in the number of publications about methods for recognizing a user b...
+
+#### 12. Behavior-based mechanisms for spoofing detection in software systems: A systematic literature review
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-11-01
+- **Venue**: *Array*
+- **Authors**: Rolando Reyes-Espinoza, Benjamin Rivera-Rojas, Juan Carlos Pérez-Arriaga, Xavier Limón et al.
+- **DOI / Link**: [https://doi.org/10.1016/j.array.2026.101424](https://doi.org/10.1016/j.array.2026.101424)
+- **Abstract / Summary**: In today’s digital landscape, spoofing attacks pose a significant threat to software systems, particularly those that rely on traditional authentication mechanisms. To address these challenges, behavioral biometrics has emerged as a promising approach by leveraging unique patterns derived from user interactions with systems, such as keystroke and mouse dy...
+
+#### 13. Deep Learning Based Behavioral Drift Modeling for Continuous Biometric Authentication
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-10-29
+- **Venue**: *arXiv (Cornell University)*
+- **Authors**: Suprava Saha Dibya, Minar, Abdulla al Noman, Md. Zafir Abid Shresto et al.
+- **DOI / Link**: [https://doi.org/10.48550/arxiv.2610.40398](https://doi.org/10.48550/arxiv.2610.40398)
+- **Abstract / Summary**: This research proposes a two-level keystroke dynamics authentication system that provides defense-in-depth security through continuous behavioral drift monitoring. Level 1 employs fixed-text password authentication using Temporal Convolutional Networks (TCN) with contrastive learning and population-based training (PBT), achieving 3.77% EER for high-securi...
+
+#### 14. Continuous User Authentication Using Behavioral Biometrics
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-10-27
+- **Venue**: *Dandao Xuebao/Journal of Ballistics*
+- **Authors**: Riti
+- **Link**: [https://openalex.org/W7224147296](https://openalex.org/W7224147296)
+- **Abstract / Summary**: With the increasing use of computer systems, secure user authentication has become a critical component of cybersecurity. Traditional authentication methods, such as passwords and PINs, verify user identity primarily at login and may fail to detect unauthorized access during an active session. This study proposes a privacy-preserving continuous behavioral...
+
+#### 15. PlayerEmbed: Learning Behavioral Fingerprint Representations from Raw Input Sequences
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-10-23
+- **Venue**: *arXiv (Cornell University)*
+- **Authors**: Tobias Schneider, Lorenz Sparrenberg, Priya Tomar, Shahzeb Qamar et al.
+- **DOI / Link**: [https://doi.org/10.48550/arxiv.2610.32727](https://doi.org/10.48550/arxiv.2610.32727)
+- **Abstract / Summary**: Raw player input sequences in video games contain fine-grained behavior, but are high-dimensional and noisy, which makes large-scale analytics challenging. To address this, we introduce PlayerEmbed, a framework that learns compact and discriminative player embeddings using deep metric learning. Our approach uses a hybrid CNN-LSTM encoder trained on raw in...
+
+#### 16. Lightweight, Autonomous Security Agents for Operator Workstations: An Explainable XGBoost-Driven Authentication Policy
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-10-20
+- **Venue**: *Research Square*
+- **Authors**: Erik Pál, Róbert Lakatos, András Hajdú
+- **DOI / Link**: [https://doi.org/10.21203/rs.3.rs-11430757/v1](https://doi.org/10.21203/rs.3.rs-11430757/v1)
+- **Abstract / Summary**: Abstract Background: Protecting edge workstations requires lightweight alternatives to energy-intensive deep learning. We introduce an autonomous security agent using an XGBoost keystroke-dynamics cognitive module. It monitors typing streams, assesses identity, and executes graded security policies with SHAP-explained, human-in-the-loop resolution. Result...
+
+#### 17. Building Predictive Identity Threat Models Using Behavioral Biometrics and Zero Trust Cybersecurity Principles
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-10-12
+- **Venue**: *INTERNATIONAL JOURNAL OF COMPUTER SCIENCE AND MATHEMATICAL THEORY E-ISSN*
+- **Authors**: Tamuka Mavenge Moyo
+- **DOI / Link**: [https://doi.org/10.56201/ijcsmt.vol.11.no9.2025.pg70.92](https://doi.org/10.56201/ijcsmt.vol.11.no9.2025.pg70.92)
+- **Abstract / Summary**: This review explores the integration of behavioral biometrics and Zero Trust cybersecurity principles in building predictive identity threat models for advanced cyber defense. As traditional perimeter-based security becomes increasingly ineffective against sophisticated identity-based attacks, the fusion of behavioral biometrics—such as keystroke dynamics...
+
+#### 18. When Authentication Is Not Enough: Breaking Behavior-Based Driver Authentication Systems
+- **Source(s)**: OpenAlex
+- **Publication Date / Year**: 2026-10-07
+- **Venue**: *Lecture notes in computer science*
+- **Authors**: Emad Efatinasab, Francesco Marchiori, Denis Donadel, Alessandro Brighente et al.
+- **DOI / Link**: [https://doi.org/10.1007/978-3-032-38692-2_30](https://doi.org/10.1007/978-3-032-38692-2_30)
+
+---
 ## [2026-11-02 05:18:22] — Literature Check Run
 
 **Search Queries:**
